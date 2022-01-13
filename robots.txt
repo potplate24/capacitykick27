@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://apfel.oneone.digital/capacitykick27_sitemap.xml
